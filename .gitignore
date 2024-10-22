@@ -1,0 +1,7 @@
+/.vscode
+/airflow-webserver.pid
+/airflow.cfg
+/config
+/logs
+/plugins
+/webserver_config.py
